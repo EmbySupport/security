@@ -1,3 +1,5 @@
+<img align="right"  height="48" src="assets/logo.png" />
+
 ## Emby Server Security Policy
 
 ### Supported Versions
