@@ -1,6 +1,6 @@
 <img align="right"  height="48" src="assets/logo.png" />
 
-# Emby Security
+## Emby Security
 
 ### Advisory Publishing
 
