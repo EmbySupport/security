@@ -1,6 +1,6 @@
-# Emby Server Security Policy
+## Emby Server Security Policy
 
-## Supported Versions
+### Supported Versions
 
 [Emby Server Releases](https://github.com/MediaBrowser/Emby.Releases/releases) are continuous. 
 
@@ -10,7 +10,7 @@ Patches for earlier major releases are generally not provided. Exceptions are so
 Beta releases are following the same patterns, yet without any exceptions.
 
 
-## Reporting a Vulnerability
+### Reporting a Vulnerability
 
 In order to privately report a vulnerability in Emby Servr or other Emby software, 
 
