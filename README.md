@@ -4,8 +4,8 @@
 
 ### Advisory Publishing
 
-This repository serves as a central place for (us), working on and publishing security advisories and incident reports.
-Please also see our [Security Policy](https://github.com/EmbySupport/security/security).
+This repository serves as a central place for (us), working on and publishing security advisories and incident reports.    
+Please also see our [Security Policy](https://github.com/EmbySupport/security?tab=security-ov-file).
 
 ### Private Vulnerability Reporting
 
